@@ -2,7 +2,7 @@
 
 > A machine learning web app that predicts whether a telecom customer will leave or stay — built with Python and Streamlit.
 
-🔗 **Live App:** [Click here to try it](#) ← replace this with your Streamlit link after deploying
+https://adithyan-churn-predictor.streamlit.app/
 
 ---
 
